@@ -7,7 +7,7 @@ const Home = () => {
     <div className="hero">
       <div class="card bg-dark text-white border-0">
         <img
-          src="https://t4.ftcdn.net/jpg/03/20/68/71/360_F_320687108_3UZ13l44Ob5cel208W7DaRnD5BR9DfY7.jpg"
+          src="https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2020-08-17-woman-shopping-shutterstock-860x573.jpg"
           class="card-img"
           alt="Background"
           height="500px"
@@ -17,7 +17,7 @@ const Home = () => {
           <h5 class="card-title display-3 fw-bolder mb-0">
             NEW SEASON ARRIVALS
           </h5>
-          <p class="card-text lead fs-2">CHICK OU T ALL TRENDS</p>
+          <p class="card-text lead fs-1 " >CHICK OU T ALL TRENDS</p>
           <p class="card-text">Last updated 3 mins ago</p>
         </div>
       </div>
